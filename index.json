@@ -12,6 +12,18 @@
     {
       "game": "The Legend of Zelda - A Link Between Worlds",
       "file": "jingles/ALBW.wav"
+    },
+    {
+      "game": "Pokemon Ultra Sun",
+      "file": "jingles/PUS.wav"
+    },
+    {
+      "game": "",
+      "file": "jingles/"
+    },
+    {
+      "game": "",
+      "file": "jingles/"
     }
   ]
 }
