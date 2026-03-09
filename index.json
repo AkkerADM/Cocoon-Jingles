@@ -8,34 +8,10 @@
     {
       "game": "Animal Crossing - New Leaf",
       "file": "jingles/ACNL.wav"
-    }
+    },
     {
       "game": "The Legend of Zelda - A Link Between Worlds",
       "file": "jingles/ALBW"
-    },   
-    {
-      "game": "Pokemon Ultra Sun",
-      "file": "jingles/PUS"
-    },
-    {
-      "game": "",
-      "file": "jingles/"
-    },
-    {
-      "game": "",
-      "file": "jingles/"
-    },
-    {
-      "game": "",
-      "file": "jingles/"
-    },
-    {
-      "game": "",
-      "file": "jingles/"
-    },
-    {
-      "game": "",
-      "file": "jingles/"
     }
   ]
 }
